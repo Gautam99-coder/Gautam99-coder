@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm a passionate developer always looking to learn
 - [Project 2](#) - Brief description of project 2
 
 ## 🌱 Currently learning
-- Technology 1
-- Technology 2
-- Technology 3
+- MEARN STACK
+- PYTHON
+- AI/ML
 
 ## 👯 Looking to collaborate on
 - Open source projects
