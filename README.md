@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm a passionate developer always looking to learn
 - Open source contributions
 
 ## 📫 How to reach me
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](#)
+- Email: [your.email@example.com](gautamtharu1000@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gautam-tharu-59909228a/)
 - Twitter: [Your Twitter Handle](#)
 
 ## ⚡ Fun fact
