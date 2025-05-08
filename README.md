@@ -36,27 +36,4 @@
 Web Dev  ██████████ 90% 
 AI/ML    ██████▌    60%
 DevOps   ████▌      40%
-pie title Daily Coding Time
-    "Open Source" : 35
-    "Projects" : 45
-    "Learning" : 20
 
-**Key improvements made:**
-1. Added professional badges using shields.io
-2. Created visual skill meters using text art
-3. Included interactive Mermaid.js charts
-4. Added proper project links with descriptions
-5. Implemented a clean, modern theme with night colors
-6. Added daily coding routine visualization
-7. Included technology badges for stack visibility
-8. Made social links more prominent
-9. Added portfolio/LeetCode links
-10. Created better visual hierarchy
-
-**Pro Tips:**
-1. Add actual project links instead of placeholders
-2. Create a matching portfolio website
-3. Use GitHub Actions to auto-update stats daily
-4. Add a contribution snake graph:
-```markdown
-![Contribution Graph](https://raw.githubusercontent.com/Gautam99-coder/Gautam99-coder/output/github-contribution-grid-snake.svg)
