@@ -1,33 +1,37 @@
-# Hi there, I'm Gautam 👋
+# Hi there, I'm Gautam 👨💻
 
-Welcome to my GitHub profile! I'm a passionate developer always looking to learn and grow. Here's a little bit about me:
+🚀 *Full Stack Developer | AI Enthusiast | Open Source Contributor*
 
-## 🔭 Currently working on
-- [Project 1](#) - Brief description of project 1
-- [Project 2](#) - Brief description of project 2
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-tharu-59909228a/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gautam_Tharu)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautamtharu1000@gmail.com)
 
-## 🌱 Currently learning
-- MEARN STACK
-- PYTHON
-- AI/ML
+## 🔥 **Current Focus**
 
-## 👯 Looking to collaborate on
-- Open source projects
-- Exciting tech challenges
-- Community events
+### 🛠️ **Building**
+- **[MERN Stack E-Commerce](https://github.com/Gautam99-coder/MORN_Stack)**  
+  Modern shopping platform with real-time analytics
+- **[AI-Powered Task Manager](https://github.com/Gautam99-coder/TaskManager)**  
+  Smart todo list with NLP integration
 
-## 💬 Ask me about
-- Web development
-- Machine learning
-- Open source contributions
+### 📚 **Learning**
+- **MERN Stack Mastery**  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+  
+- **AI/ML Specialization**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-## 📫 How to reach me
-- Email: [gautamharu1000@gmail.ocm](gautamtharu1000@gmail.com)
-- LinkedIn: [Gautam-Tharu](https://www.linkedin.com/in/gautam-tharu-59909228a/)
-- Twitter: [Gautam_Tharu](#)
+## 🌟 **Collaboration Opportunities**
+- 🤝 Open source projects needing full stack expertise
+- 🧠 AI/ML projects with real-world applications
+- 🎮 Interesting web development challenges
 
-## ⚡ Fun fact
-- Share a fun fact about yourself!
-
-## 📊 GitHub Stats
-![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gautam99-coder&show_icons=true&theme=radical)
+## 💡 **Ask Me About**
+```text
+Web Dev  ██████████ 90% 
+AI/ML    ██████▌    60%
+DevOps   ████▌      40%
